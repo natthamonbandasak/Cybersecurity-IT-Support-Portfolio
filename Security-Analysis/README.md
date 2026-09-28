@@ -22,8 +22,8 @@ The documents in this section showcase analytical and professional communication
 
 *   **`security_audit_report.pdf`**
     *   **Description:** Report on conducting a security audit and assessing organizational security posture (Conducting a security audit).
-*   **`network_architecture_analysis.pdf`**
-    *   **Description:** Documentation analyzing network architecture and security controls (Analyzing network structure and security).
+*   **`Incident_Report_Analysis.pdf`**
+    *   **Description:** Documentation analyzing a Denial of Service (DoS) security event and applying the NIST Cybersecurity Framework (CSF) for incident response.
 *   **`vulnerability_assessment.pdf`**
     *   **Description:** Document identifying and assessing vulnerabilities, along with proposed remediations for a small business (Identifying vulnerabilities for a small business).
 *   **`incident_handler_journal.pdf`**
