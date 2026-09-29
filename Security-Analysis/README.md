@@ -24,7 +24,7 @@ The documents in this section showcase analytical and professional communication
     *   **Description:** Report on conducting a security audit and assessing organizational security posture (Conducting a security audit).
 *   **`Incident_Report_Analysis.pdf`**
     *   **Description:** Documentation analyzing a Denial of Service (DoS) security event and applying the NIST Cybersecurity Framework (CSF) for incident response.
-*   **`vulnerability_assessment.pdf`**
+*   **`vulnerability_assessment_report.pdf`**
     *   **Description:** Document identifying and assessing vulnerabilities, along with proposed remediations for a small business (Identifying vulnerabilities for a small business).
 *   **`incident_handler_journal.pdf`**
     *   **Description:** Journal and summary report detailing response procedures during a cyber threat incident (Documenting incidents with an incident handler’s journal).
