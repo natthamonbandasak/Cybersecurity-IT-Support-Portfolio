@@ -17,9 +17,9 @@ Welcome to my portfolio! This repository contains my custom hands-on projects, a
 - **2. Employee Offboarding & Insider Threat Audit** *(In Progress)*
   - **Tech Stack:** Python, Data Filtering
   - **Description:** A script designed to monitor system logs, detect unauthorized internal data access, and identify data exfiltration anomalies.
-- **3. Web Application Security & Attack Detection** *(In Progress)*
-  - **Tech Stack:** Python, Log Analysis
-  - **Description:** Analyzing web server logs to identify and flag malicious payloads, such as SQL Injection (SQLi) and vulnerability exploitation attempts.
+- **3. Botnet & DDoS Activity Detection** *(In Progress)*
+  - **Tech Stack:** Python, SQLite, Data Aggregation
+  - **Description:** Parsing web server access logs to identify Denial of Service (DDoS) patterns and botnet activity. The script highlights IP addresses generating abnormally high request volumes within short timeframes, simulating traffic anomaly detection.
 
 ## 🎓 Practical Labs & Coursework
 - **Security Risk Assessment (Google Cybersecurity):** Conducted practical incident log investigations, risk assessments, and network traffic analysis.
