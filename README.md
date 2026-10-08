@@ -14,9 +14,9 @@ Welcome to my portfolio! This repository contains my custom hands-on projects, a
 - **1. Automated Log Analysis & Threat Detection (External Threats)** 
   - **Tech Stack:** Python, SQLite, SQL, Regex
   - **Description:** Developed an automated pipeline to parse over 5,000 server log entries, extract malicious login attempts (Brute-force), and aggregate data using SQL (`GROUP BY`, `ORDER BY`) to identify high-risk IP addresses.
--**2. Employee Offboarding & Insider Threat Audit**
-- **Tech Stack:** Python, SQLite, Regex, ETL Data Pipeline
-- **Description:** Developed an end-to-end Python ETL pipeline to audit internal system logs and detect potential data exfiltration during the employee offboarding process. The script utilizes Regex to extract unauthorized confidential file downloads, aggregates anomaly counts, and loads the targeted intelligence into an SQLite database for rapid security review..
+- **2. Employee Offboarding & Insider Threat Audit**
+  - **Tech Stack:** Python, SQLite, Regex, ETL Data Pipeline
+  - **Description:** Developed an end-to-end Python ETL pipeline to audit internal system logs and detect potential data exfiltration during the employee offboarding process. The script utilizes Regex to extract unauthorized confidential file downloads, aggregates anomaly counts, and loads the targeted intelligence into an SQLite database for rapid security review..
 - **3. Botnet & DDoS Activity Detection** *(In Progress)*
   - **Tech Stack:** Python, SQLite, Data Aggregation
   - **Description:** Parsing web server access logs to identify Denial of Service (DDoS) patterns and botnet activity. The script highlights IP addresses generating abnormally high request volumes within short timeframes, simulating traffic anomaly detection.
