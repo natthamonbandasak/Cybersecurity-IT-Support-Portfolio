@@ -14,7 +14,7 @@ Welcome to my portfolio! This repository contains my custom hands-on projects, a
 - **1. Automated Log Analysis & Threat Detection (External Threats)** 
   - **Tech Stack:** Python, SQLite, SQL, Regex
   - **Description:** Developed an automated pipeline to parse over 5,000 server log entries, extract malicious login attempts (Brute-force), and aggregate data using SQL (`GROUP BY`, `ORDER BY`) to identify high-risk IP addresses.
-- **2. Employee Offboarding & Insider Threat Audit** *(In Progress)*
+- **2. Employee Offboarding & Insider Threat Audit** 
   - **Tech Stack:** Python, Data Filtering
   - **Description:** A script designed to monitor system logs, detect unauthorized internal data access, and identify data exfiltration anomalies.
 - **3. Botnet & DDoS Activity Detection** *(In Progress)*
